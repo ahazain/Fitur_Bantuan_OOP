@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FAQ1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FAQ2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FAQ3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FAQ4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FAQ5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FAQ6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FAQForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GradientClass1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Kritik&amp;SaranForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="reundedPNClass1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

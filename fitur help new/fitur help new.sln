@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fitur help new", "fitur help new\fitur help new.csproj", "{A3E3340F-F2C6-4166-BE7C-14111F9FFE3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E3340F-F2C6-4166-BE7C-14111F9FFE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E3340F-F2C6-4166-BE7C-14111F9FFE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E3340F-F2C6-4166-BE7C-14111F9FFE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E3340F-F2C6-4166-BE7C-14111F9FFE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA9B5AD5-3CAA-4F79-9830-09715B9CC70D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+E:\fitur help new\fitur help new\bin\Debug\net6.0-windows\fitur help new.exe
+E:\fitur help new\fitur help new\bin\Debug\net6.0-windows\fitur help new.deps.json
+E:\fitur help new\fitur help new\bin\Debug\net6.0-windows\fitur help new.runtimeconfig.json
+E:\fitur help new\fitur help new\bin\Debug\net6.0-windows\fitur help new.dll
+E:\fitur help new\fitur help new\bin\Debug\net6.0-windows\fitur help new.pdb
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur help new.csproj.AssemblyReference.cache
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur_help_new.Form1.resources
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur help new.csproj.GenerateResource.cache
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur help new.GeneratedMSBuildEditorConfig.editorconfig
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur help new.AssemblyInfoInputs.cache
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur help new.AssemblyInfo.cs
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur help new.csproj.CoreCompileInputs.cache
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur help new.dll
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\refint\fitur help new.dll
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur help new.pdb
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur help new.genruntimeconfig.cache
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\ref\fitur help new.dll
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur_help_new.Properties.Resources.resources
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur_help_new.FAQForm2.resources
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur_help_new.Kritik_SaranForm2.resources
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur_help_new.FAQ1.resources
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur_help_new.FAQ2.resources
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur_help_new.FAQ3.resources
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur_help_new.FAQ4.resources
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur_help_new.FAQ5.resources
+E:\fitur help new\fitur help new\obj\Debug\net6.0-windows\fitur_help_new.FAQ6.resources
